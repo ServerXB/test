@@ -2,12 +2,5 @@
 	"code":"12345",
 	"name":"Angri",
 	"addressStreet":"via Fleming",
-	"addressCity":"Angri",
-	"addressProvince":"SA",
-	"addressZip":"84012",
-	"addressPhone":"123456543454",
-	"latitude":"40.7374716",
-	"longitude":"14.575715400000036",
-	"url":"http://www.google.it",
-	"isocode":"ABC"
+	"addressCity":"Angri"
 }
